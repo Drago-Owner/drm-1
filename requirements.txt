@@ -1,12 +1,12 @@
 aiohttp 
  
 requests 
-json
+
 pytz
 datetime 
-shlex
+
 git
 yt-dlp
 aria2c
-mp4decrypt
+
 ffmpeg

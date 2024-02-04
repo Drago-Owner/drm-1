@@ -11,7 +11,7 @@ first time run:
 2) sudo apt install -y git cmake make build-essential; git clone https://github.com/axiomatic-systems/Bento4.git; cd Bento4; mkdir cmakebuild; cd cmakebuild/; cmake -DCMAKE_BUILD_TYPE=Release ..; make; sudo make install
 
 Dependencies: yt-dlp, aria2c, mp4decrypt, ffmpeg
-Usage: python decipher_dl.py -t "TOKEN"
+Usage: python decipher_dl.py -t "eyJjb250ZW50QXV0aCI6ImV5SmpiMjUwWlc1MFNXUWlPaUkwTTJVMU1tRXdaamxqTW1FM05HTTVNek0wT1RNM016bGhPVFl4TVRKak55SXNJbVY0Y0dseVpYTWlPaUl4TnpBM01ESTVNakF5SWl3aWJHbGpaVzV6WlZKMWJHVnpJam9pZTF3aVkyRnVVR1Z5YzJsemRGd2lPbVpoYkhObExGd2ljbVZ1ZEdGc1JIVnlZWFJwYjI1Y0lqb3hPREF3TUgwaWZRPT0iLCJzaWduYXR1cmUiOiI3ZTU0NjliOGRmMDQ0ZmFjOjIwMjQwMjA0VDA2NDYxMlo6OF80ZXhYWl90M1hVaVVqWktoVG9MRjdVU3o5M1E4dGFVYXR6cWZQVklzST0ifQ=="
 
 For custom name add: -o "LUMD"
 For custom resl add: -r "1/2/3" where 1 is highest and 3 is lowest available rsl

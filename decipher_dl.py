@@ -106,7 +106,7 @@ class Vdocipher:
         keys = await self.get_from_db(self.pssh)
         if not keys:
             async with ClientSession() as session:
-                async with session.post("https://api.newdomainhai.gq/free",
+                async with session.post("https://learnyst.devsrajput.com/free",
                                         data={"link": self.token}) as resp:
                     keys = await resp.json(content_type=None)
             try:
